@@ -1,0 +1,13 @@
+.app-shell {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(231, 254, 41, 0.18), transparent 34rem),
+    radial-gradient(circle at top right, rgba(20, 184, 166, 0.14), transparent 30rem),
+    linear-gradient(180deg, #f8fafc 0%, #eef2f7 46%, #f8fafc 100%);
+  color: #111827;
+}
+
+.container-pad {
+  width: min(1180px, calc(100% - 32px));
+  margin-inline: auto;
+}

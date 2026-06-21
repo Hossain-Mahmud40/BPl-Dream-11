@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Mahmudullah Riyad",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 500,
+    "playerImg": "https://i.ibb.co.com/DfYF381b/Mahmudullah-Riyad-Biography.jpg"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/p6qQrrwf/Mustafizur-Rahman-1.jpg"
+  },
+  {
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "rating": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 2500,
+    "playerImg": "https://i.ibb.co.com/rRd6DvL9/350668.webp"
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 8000,
+    "playerImg": "https://i.ibb.co.com/8nXBw6t3/1682598187417-Andre-Russell.jpg"
+  },
+  {
+    "playerName": "Chris Gayle",
+    "playerCountry": "West Indies",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 700,
+    "playerImg": "https://i.ibb.co.com/Qs2ry4y/OIP.webp"
+  },
+  {
+    "playerName": "Sunil Narine",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1300,
+    "playerImg": "https://i.ibb.co.com/PvryJ5HL/OIP-1.webp"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 1400,
+    "playerImg": "https://i.ibb.co.com/Tx17z3Ts/OIF.webp"
+  },
+  {
+    "playerName": "Kieron Pollard",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1750,
+    "playerImg": "https://i.ibb.co.com/xqKt4CDL/OIP-2.webp"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1452,
+    "playerImg": "https://i.ibb.co.com/4nWrk4qc/OIP-3.webp"
+  }
+]
